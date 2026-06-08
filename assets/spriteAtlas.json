@@ -1,0 +1,477 @@
+{
+    "textures": [
+        {
+            "image": "assets/howIsThisTheFourthTimeIveHadToRedoMySpritesheet.png",
+            "format": "ARGB8888",
+            "size": {
+                "w": 448,
+                "h": 384
+            },
+            "frames": [
+                {
+                    "filename": "largeRedBucket",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 192,
+                        "h": 64
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 192,
+                        "h": 64
+                    },
+                    "frame": {
+                        "x": 0,
+                        "y": 128,
+                        "w": 192,
+                        "h": 64
+                    }
+                },
+                {
+                    "filename": "medRedBucket",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 128,
+                        "h": 64
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 128,
+                        "h": 64
+                    },
+                    "frame": {
+                        "x": 0,
+                        "y": 256,
+                        "w": 128,
+                        "h": 64
+                    }
+                },
+                {
+                    "filename": "smallRedBucket",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 64,
+                        "h": 64
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 64,
+                        "h": 64
+                    },
+                    "frame": {
+                        "x": 128,
+                        "y": 256,
+                        "w": 64,
+                        "h": 64
+                    }
+                },
+                {
+                    "filename": "largeBlueBucket",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 192,
+                        "h": 64
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 192,
+                        "h": 64
+                    },
+                    "frame": {
+                        "x": 0,
+                        "y": 192,
+                        "w": 192,
+                        "h": 64
+                    }
+                },
+                {
+                    "filename": "medBlueBucket",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 128,
+                        "h": 64
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 128,
+                        "h": 64
+                    },
+                    "frame": {
+                        "x": 0,
+                        "y": 320,
+                        "w": 128,
+                        "h": 64
+                    }
+                },
+                {
+                    "filename": "smallBlueBucket",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 64,
+                        "h": 64
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 64,
+                        "h": 64
+                    },
+                    "frame": {
+                        "x": 128,
+                        "y": 320,
+                        "w": 64,
+                        "h": 64
+                    }
+                },
+                {
+                    "filename": "pinkPlatform",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 192,
+                        "h": 64
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 192,
+                        "h": 64
+                    },
+                    "frame": {
+                        "x": 256,
+                        "y": 0,
+                        "w": 192,
+                        "h": 64
+                    }
+                },
+                {
+                    "filename": "greenPlatform",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 192,
+                        "h": 64
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 192,
+                        "h": 64
+                    },
+                    "frame": {
+                        "x": 256,
+                        "y": 64,
+                        "w": 192,
+                        "h": 64
+                    }
+                },
+                {
+                    "filename": "leftCandyCane",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 192,
+                        "h": 64
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 192,
+                        "h": 64
+                    },
+                    "frame": {
+                        "x": 64,
+                        "y": 0,
+                        "w": 192,
+                        "h": 64
+                    }
+                },
+                {
+                    "filename": "rightCandyCane",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 192,
+                        "h": 64
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 192,
+                        "h": 64
+                    },
+                    "frame": {
+                        "x": 64,
+                        "y": 64,
+                        "w": 192,
+                        "h": 64
+                    }
+                },
+                {
+                    "filename": "pinkBean",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 64,
+                        "h": 64
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 64,
+                        "h": 64
+                    },
+                    "frame": {
+                        "x": 256,
+                        "y": 256,
+                        "w": 64,
+                        "h": 64
+                    }
+                },
+                {
+                    "filename": "tealBean",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 64,
+                        "h": 64
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 64,
+                        "h": 64
+                    },
+                    "frame": {
+                        "x": 320,
+                        "y": 256,
+                        "w": 64,
+                        "h": 64
+                    }
+                },
+                {
+                    "filename": "redBean",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 64,
+                        "h": 64
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 64,
+                        "h": 64
+                    },
+                    "frame": {
+                        "x": 256,
+                        "y": 320,
+                        "w": 64,
+                        "h": 64
+                    }
+                },
+                {
+                    "filename": "blueBean",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 64,
+                        "h": 64
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 64,
+                        "h": 64
+                    },
+                    "frame": {
+                        "x": 192,
+                        "y": 320,
+                        "w": 64,
+                        "h": 64
+                    }
+                },
+                {
+                    "filename": "redGuy",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 64,
+                        "h": 128
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 64,
+                        "h": 128
+                    },
+                    "frame": {
+                        "x": 192,
+                        "y": 128,
+                        "w": 64,
+                        "h": 128
+                    }
+                },
+                {
+                    "filename": "idleFrontArm",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 64,
+                        "h": 64
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 64,
+                        "h": 64
+                    },
+                    "frame": {
+                        "x": 256,
+                        "y": 192,
+                        "w": 64,
+                        "h": 64
+                    }
+                },
+                {
+                    "filename": "activeFrontArm",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 64,
+                        "h": 64
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 64,
+                        "h": 64
+                    },
+                    "frame": {
+                        "x": 384,
+                        "y": 192,
+                        "w": 64,
+                        "h": 64
+                    }
+                },
+                {
+                    "filename": "backArm",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 64,
+                        "h": 64
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 64,
+                        "h": 64
+                    },
+                    "frame": {
+                        "x": 320,
+                        "y": 192,
+                        "w": 64,
+                        "h": 64
+                    }
+                },
+                {
+                    "filename": "sprout",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 64,
+                        "h": 64
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 64,
+                        "h": 64
+                    },
+                    "frame": {
+                        "x": 256,
+                        "y": 128,
+                        "w": 64,
+                        "h": 64
+                    }
+                },
+                {
+                    "filename": "bud",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 64,
+                        "h": 64
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 64,
+                        "h": 64
+                    },
+                    "frame": {
+                        "x": 320,
+                        "y": 128,
+                        "w": 64,
+                        "h": 64
+                    }
+                },
+                {
+                    "filename": "plant",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 64,
+                        "h": 64
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 64,
+                        "h": 64
+                    },
+                    "frame": {
+                        "x": 384,
+                        "y": 128,
+                        "w": 64,
+                        "h": 64
+                    }
+                },
+                {
+                    "filename": "yellowBucket",
+                    "rotated": false,
+                    "trimmed": true,
+                    "sourceSize": {
+                        "w": 64,
+                        "h": 64
+                    },
+                    "spriteSourceSize": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 64,
+                        "h": 64
+                    },
+                    "frame": {
+                        "x": 192,
+                        "y": 256,
+                        "w": 64,
+                        "h": 64
+                    }
+                }
+            ]
+        }
+    ]
+}
+
