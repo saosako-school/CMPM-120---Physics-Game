@@ -103,8 +103,8 @@ class End extends Phaser.Scene {
     }
 
     create() {
-        this.add.bitmapText(this.game.config.width / 4, this.game.config.height / 3, "pixelFont", 
-`Thanks for playing! Truth be told, I've been having a very difficult year. There's been much crying, much worrying, and I've lost so much weight (and hair!) from how hard I've been working, and how sick I've gotten. I've been so lucky to be supported by my friends, my family, and my professors (if you're Professor Smith for CMPM 120, hello!). I'm just happy to have finished this. Thanks again to freezyfrost on itch.io for the bitmap font files, they've been a huge help, and thanks again to you. See you soon! <3`, 20, 1).setMaxWidth(this.game.config.width / 2);
+        this.add.bitmapText(this.game.config.width / 4, this.game.config.height / 6, "pixelFont", 
+`Thanks for playing! Truth be told, I've been having a very difficult year. There's been much crying, much worrying, and I've lost so much weight (and hair!) from how hard I've been working, and how sick I've gotten. I've been so lucky to be supported by my friends, my family, and my professors (if you're Professor Smith for CMPM 120, hello!). I'm just happy to have finished this. I didn't manage to get the Portfolio clip in on time and a couple other things (which is somewhat due to losing my laptop on Saturday), so I feel pretty sad too. But I think I tried my best this entire year, and hopefully that shows. I left almost all of my commented out code from the various times I had to start this project over (even though it has made my files super messy to look at), just to prove to myself when I look back that I've worked really hard, so that the all-nighters and skipped meals weren't for nothing. Well, that's enough bumming you out. I'll see you later <3`, 20, 1).setMaxWidth(this.game.config.width / 2);
     }
 }
 
