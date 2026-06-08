@@ -1,5 +1,5 @@
 ## Where to play the game
-
+[Link to deployment](https://saosako-school.github.io/CMPM-120---Physics-Game/)
 ## Experience Requirements
 - The game uses continuous inputs from the player by requiring the player to continuously press the right or left button to move around. The game uses discrete inputs from the player by requiring that they press the SPACE key to drop their jelly bean.
 - The player's goal (getting beans into their buckets/getting the most points) can only be achieved indirectly through the physics engine applying gravity to the bean that allows it to collide/overlap with hitboxes within the bucket that tell the game to update the player's score.

@@ -30,7 +30,7 @@ let config = {
         }
     },
     pixelArt: true,
-    scene: [End],
+    scene: [Level1, Level2, Level3, Transition, End],
     title: "CMPM 120 Physics Game"
 }
 
